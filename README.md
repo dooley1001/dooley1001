@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Tech Enthusiast & Developer Support Engineer @ Twilio</h3>
+<h3 align="center">Tech Enthusiast & Developer Support Engineer @ <a href="https://www.twilio.com/">Twilio</a> </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dooley1001" alt="dooley1001" /> </p>
+
 
 - 🔭 I’m currently working on my **career**
 - 🌱 I’m currently learning everything 🤣
@@ -16,7 +18,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +29,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11121418198&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
-<h3>Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dooley1001&show_icons=true" alt="dooley1001" /></p>
 
 
