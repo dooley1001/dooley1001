@@ -30,4 +30,6 @@
 
 [![Spotify](https://novatorem-orpin-ten.vercel.app/api/spotify)](https://open.spotify.com/user/11121418198)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11121418198&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 
