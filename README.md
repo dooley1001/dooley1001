@@ -27,4 +27,4 @@
 
 **Now Playing** on Spotify:
 <br>
-[![Spotify](https://novatorem-orpin-ten.vercel.app)](https://open.spotify.com/user/11121418198)
+[![Spotify](novatorem-git-master.dooley1001.vercel.app)](https://open.spotify.com/user/11121418198)
