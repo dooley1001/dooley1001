@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dooley1001" alt="dooley1001" /> </p>
 
 
-- 🔭 I’m currently working on my **career**
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently building things @ **Twilio**
+- :books: I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
