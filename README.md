@@ -25,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dooley1001&show_icons=true" alt="dooley1001" /></p>
 
 
-**Now Playing** on Spotify
-[![Spotify](https://novatorem-orpin-ten.vercel.app)](https://open.spotify.com/user/omnitenebris)
+**Now Playing** on Spotify:
+<br>
+[![Spotify](https://novatorem-orpin-ten.vercel.app)](https://open.spotify.com/user/11121418198)
