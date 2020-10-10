@@ -18,7 +18,7 @@
 
 <p align="left">
 <h2 align="left">Connect with me:</h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
