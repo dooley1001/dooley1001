@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dooley1001&show_icons=true" alt="dooley1001" /></p>
 
 <p align="center">
-<h2 align="center">Thanks For coming!:heart:</h2>
+<h2 align="center">Thanks For coming!<img src="https://media.giphy.com/media/s5Lute2pTZqUw/giphy.gif" width="50"></h2>
 </p>
 -------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
