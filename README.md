@@ -19,8 +19,7 @@
 
 <p align="left">
 <h2 align="left">Connect with me:</h2>
-<a href="https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a> <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/XTAqdwCL2oEus/giphy.gif"/>
-</p>
+<a href="https://www.linkedin.com/in/david-dooley-a7b914b1/" target="blank"><img src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" alt="https://www.linkedin.com/in/david-dooley-a7b914b1/" height="30" width="40" /></a></<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/XTAqdwCL2oEus/giphy.gif"/></p>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -33,3 +32,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11121418198&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dooley1001&show_icons=true" alt="dooley1001" /></p>
+
+<p align="center">
+<h2 align="center">Thanks For coming!:heart:</h2>
+</p>
+-------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+<a href="https://www.buymeacoffee.com/dooley1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:750px !important; width:75px !important;" ></a></p>
