@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm David <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm David <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <img align="right" src="https://media.giphy.com/media/qJDukWHSyFYxW/giphy.gif" height="50" width="50"/>
+</h1>
 <h3 align="center">Tech Enthusiast & Developer Support Engineer @ <a href="https://www.twilio.com/">Twilio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
@@ -40,3 +41,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <a href="https://www.buymeacoffee.com/dooley1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:750px !important; width:75px !important;" ></a></p>
+
+
