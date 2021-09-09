@@ -39,7 +39,5 @@
 <h2 align="center">Thanks For checking out my GitHub!<img src="https://media.giphy.com/media/s5Lute2pTZqUw/giphy.gif" width="50"></h2>
 </p>
 -----------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-<a href="https://www.buymeacoffee.com/dooley1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:750px !important; width:75px !important;" ></a></p>
 
 
