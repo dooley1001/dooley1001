@@ -10,7 +10,6 @@
 
 - :books: I’m currently learning everything 🤣
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 - 💬 Ask me about **Cars,Cryptocurrency,Stocks,JAVA,**
 
