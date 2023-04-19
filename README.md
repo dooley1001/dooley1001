@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm David <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <img align="right" src="https://media.giphy.com/media/qJDukWHSyFYxW/giphy.gif" height="50" width="50"/>
 </h1>
-<h3 align="center">Tech Enthusiast & Developer Support Engineer @ <a href="https://www.twilio.com/">Twilio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">Tech Enthusiast & EMEA Team Lead @ <a href="https://www.twilio.com/">Twilio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dooley1001" alt="dooley1001" /> </p>
