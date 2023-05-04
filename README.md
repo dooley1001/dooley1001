@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Cars,Cryptocurrency,Stocks,JAVA,**
 
-- 📫 How to reach me **davidlambo@hotmail.com**
-
 - ⚡ Fun fact **I drive a modified 230 BHP Fiesta ST** :car:
 
 <p align="left">
