@@ -6,14 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dooley1001" alt="dooley1001" /> </p>
 
 
-- 🔭 I’m currently building stuff & helping developers @ <a href="https://github.com/twilio"> **Twilio** </a><img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/> 
+- 🔭 I’m currently building stuff & helping developers @ <a href="https://github.com/twilio"> **Twilio**
 
-- :books: I’m currently learning everything 🤣
+- :books: Learning as much as I can 🤣
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate with other developers
 
 - 💬 Ask me about **Cars,Cryptocurrency,Stocks,JAVA,**
 
-- ⚡ Fun fact **I drive a modified 230 BHP Fiesta ST** :car:
+- ⚡ Fun fact **I drive a modified 250 BHP Fiesta ST** :car:
 
 <p align="left">
 <h2 align="left">Connect with me on Linkedin:</h2>
@@ -29,7 +29,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11121418198&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dooley1001&show_icons=true" alt="dooley1001" /></p>
 
 <p align="center">
 <h2 align="center">Thanks For checking out my GitHub!<img src="https://media.giphy.com/media/s5Lute2pTZqUw/giphy.gif" width="50"></h2>
